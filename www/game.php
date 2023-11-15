@@ -12,6 +12,7 @@ $dices = new Dices();
     <title>Monopoly</title>
     <link rel="stylesheet" href="Styles/footer.css">
     <link rel="stylesheet" href="Styles/Dice.css">
+    <link rel="stylesheet" href="Styles/main.css">
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
 </head>
 <body>
