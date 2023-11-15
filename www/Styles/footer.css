@@ -1,11 +1,7 @@
 footer div{
     text-align: center;
-    vertical-align: center;
     color: aqua;
     font-style: italic;
     font-weight: bold;
     background: #228b2230;
-    position: absolute;
-    width: 100%;
-    bottom: 0px;
 }
